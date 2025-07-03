@@ -1,5 +1,1 @@
-# zama-commit-challenge
-commit2
-commit3
-commit4
-commit5
+# zama-commit-challenge commit2
